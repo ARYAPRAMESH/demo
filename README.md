@@ -1,4 +1,4 @@
 # demo
 this is my repo
 <br>
-Author - Arya Pramesh
+Author - Arya Pramesh (Amrita)
